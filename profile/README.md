@@ -1,6 +1,6 @@
 # Hello, tech world! 👋🏿
 
-We are **Auzuma Technologies**, a new tech startup. Our mission is to **use technology to positively and effectively make our world a better place**. AI is our initial focus right now, so most of our early innovations will come from our **AI division, A0**. We're already developing an AI safety, ethics, trust, and accuracy checker called **SafetyLens**. We expect our first version of SafetyLens, called *SafetyLens 1.0*, to be open-sourced and ready for external testing around mid-April, so please [stay tuned](https://github.com/auzuma) for that.
+We are **Auzuma Technologies**, a new tech startup. Our mission is to **use technology to positively and effectively make our world a better place**. AI is our initial focus right now, so most of our early innovations will come from our **AI division, A0**. We're already developing an AI safety, ethics, trust, and accuracy checker called **SafetyLens**. We're gearing up to launch SafetyLens 1.0 as an open-source project around mid-April — get ready to explore and contribute!
 
 # Our Core Values
 
@@ -47,4 +47,4 @@ We've planned a structure that enables efficient innovation in the tech industry
 
 ## Stay Tuned
 
-Please stay tuned for our exciting innovations by [following us](https://github.com/auzuma) here on GitHub. We're working on a website, so once it's launched, you can also subscribe to the newsletter. Thank you for being a supporter!
+Be part of our journey—[follow us](https://github.com/auzuma) here on GitHub to stay updated on our latest innovations! We're working on a website, so once it's launched, you can also subscribe to the newsletter. Thank you for being a supporter!
