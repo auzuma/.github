@@ -76,6 +76,12 @@ We've planned a structure that enables efficient innovation in the tech industry
 
 📢 Stay tuned for upcoming contribution guides!
 
+# Want to Join the Team? 🤝
+
+**We’re not hiring yet, but that does not stop us from welcoming passionate contributors who align with our mission!** Please don't hesistate to join our GitHub community, contribute, and grow with us as we expand!
+
+📢 Stay tuned for upcoming team positions!
+
 # Stay Tuned
 
 Be part of our journey—please [follow us](https://github.com/auzuma) here on GitHub to stay updated on our latest innovations! We're working on a website, so once it's launched, you can also subscribe to the newsletter.
