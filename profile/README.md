@@ -21,7 +21,7 @@ We are **Auzuma Technologies**, a new ambitious tech startup pioneering the futu
 📢 Stay tuned for the repo launch!
 
 ### 👀 Get an Early Look
-**Curious about what is coming soon?**
+**Curious about what else is coming in the future?**
 
 Explore our *in-progress* [teasers](https://github.com/auzuma/teasers) for exclusive previews of our projects!
 
