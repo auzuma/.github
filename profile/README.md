@@ -65,6 +65,7 @@ We've planned a structure that enables efficient innovation in the tech industry
 	- **Auzuma A0:** Focused on AI solutions and tools.
 	- **Auzuma Devices:** Hardware innovations.
    	- **Auzuma Superware:** *Next-gen* software innovations.
+   		- We are also working on futuristic operating systems—**stay tuned for Zionix**, our next-gen intelligent OS!
 	- **Auzuma Cloud (aka Cloudcore):** Cloud services.
 	- **Auzuma Motors:** Transportation tech.
 	- **Auzuma Media:** Social platforms, AR/VR, and communication tech.
