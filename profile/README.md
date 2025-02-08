@@ -14,9 +14,9 @@ We are **Auzuma Technologies**, a new ambitious tech startup pioneering the futu
 📢 Stay tuned for the repo launch!
 
 ### ℹ️ SQL Generator (Coming Soon—Release Date TBD!)
-**An LLM-powered SQL writer AI agent, known as "SQL Generator" (sqlgen for short).**
+**An LLM-powered SQL writer/runner AI agent, known as "SQL Generator" (sqlgen for short).**
 
-✔️ Generates Snowflake-compatible queries based on user specs.
+✔️ Generates and runs Snowflake-compatible queries based on user specs, then provides a detailed analysis of the query's output to the user.
 
 📢 Stay tuned for the repo launch!
 
