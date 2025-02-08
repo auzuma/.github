@@ -6,17 +6,23 @@ We are **Auzuma Technologies**, a new ambitious tech startup pioneering the futu
 
 ### 🔍 SafetyLens (Coming Around Mid-April!)
 **An AI-powered safety, trust, and ethics checker for AI responses.**
+
 ✔️ Helps ensure AI remains **accurate, transparent, and responsible**.
+
 🚀 *SafetyLens 1.0*, our first version, will be open-source and ready for external testing soon!
+
 📢 Stay tuned for the repo launch!
 
 ### ℹ️ SQL Generator (Coming Soon—Release Date TBD!)
 **An AI-powered SQL writer, known as "SQL Generator" (sqlgen for short).**
+
 🚀 Generates Snowflake-compatible queries based on user specs.
+
 📢 Stay tuned for the repo launch!
 
 ### 👀 Get an Early Look
 **Curious about what is coming soon?**
+
 Explore our *in-progress* [teasers](https://github.com/auzuma/teasers) for exclusive previews of our projects!
 
 # Our Core Values
@@ -65,6 +71,7 @@ We've planned a structure that enables efficient innovation in the tech industry
 # Want to Contribute? 💡
 
 **We welcome contributions!** If you're excited about AI or any other innovative tech, we'd love your help.  
+
 📢 Stay tuned for upcoming contribution guides!
 
 # Stay Tuned
