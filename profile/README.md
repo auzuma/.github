@@ -64,6 +64,7 @@ We've planned a structure that enables efficient innovation in the tech industry
 - **Divisions and Subsidiaries**:
 	- **Auzuma A0:** Focused on AI solutions and tools.
 	- **Auzuma Devices:** Hardware innovations.
+   	- **Auzuma Superware:** *Next-gen* software innovations.
 	- **Auzuma Cloud (aka Cloudcore):** Cloud services.
 	- **Auzuma Motors:** Transportation tech.
 	- **Auzuma Media:** Social platforms, AR/VR, and communication tech.
