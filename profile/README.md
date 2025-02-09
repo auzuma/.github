@@ -110,6 +110,4 @@ Be part of our journey—please [follow us here on GitHub](https://github.com/au
 
 📢 **By the Way**: Our official website is in the works — once launched, you’ll be able to subscribe to our blog for insights and updates.  
 
-✨ **Thank you for supporting Auzuma!** **The future starts here.**
-
-**IT'S TIME TO INNOVATE** 🚀🔥  
+✨ **Thank you SO MUCH for supporting Auzuma!** **THE FUTURE STARTS HERE** 🚀🔥  
