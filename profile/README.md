@@ -4,91 +4,108 @@
 <img src="https://github.com/user-attachments/assets/fd50cabe-fdeb-478f-9d24-eb9a8d6a290a" />
 </div>
 
-We are **Auzuma Technologies**, a new ambitious tech startup pioneering the future of **transformative tech**. Our mission is to **use technology to positively and effectively make our world a better place**. AI is our initial focus right now, so most of our early innovations will come from our **AI division, A0**. We're already developing an AI safety, ethics, trust, and accuracy checker called **SafetyLens**. We're gearing up to launch our first version, *SafetyLens 1.0*, as an open-source project around mid-April — please [get ready to explore and contribute by following us on GitHub](https://github.com/auzuma)!
+### **Revolutionizing technology. Empowering the future.** 
+
+We are **Auzuma Technologies**, a new ambitious tech startup pioneering the future of **transformative tech**. Our mission is simple yet bold: to **use technology to positively and effectively make our world a better place**. AI is our initial focus right now, meaning most of our early innovations will come from our **AI division, A0**. We're already developing an AI safety, ethics, trust, and accuracy checker called **SafetyLens**. We're gearing up to launch our first version, *SafetyLens 1.0*, as an open-source project around mid-April — please [get ready to explore and contribute by following us on GitHub](https://github.com/auzuma)!
+
+But Auzuma is **more than just AI**—we’re also exploring **software, hardware, and beyond.**  
+
+---
 
 # Featured Projects 🚀
 
 ### 🔍 SafetyLens (Coming Around Mid-April!)
 **An AI-powered safety, trust, and ethics checker for LLMs' responses.**
 
-✔️ Helps ensure AI and their responses remain **accurate, transparent, and responsible**.
+✔️ **Detects and flags potential issues** in trust, ethics, and accuracy.
 
-🚀 *SafetyLens 1.0*, our first version, will be open-source and ready for external testing soon!
+✔️ **Built for LLMs** to improve their reliability and safety.  
+
+✔️ **The first version is fully open-source**—join us in testing and contributing!
+
+🚀 *SafetyLens 1.0*, our first version, will be open-source and ready for external testing soon! We invite you to join us by testing and contributing once it's live!
 
 📢 Stay tuned for the repo launch!
 
 ### ℹ️ SQL Generator (Coming Soon—Release Date TBD!)
-**An LLM-powered SQL writer/runner AI agent, known as "SQL Generator" (sqlgen for short).**
+**An LLM-powered AI agent for generating and running SQL queries, known as "SQL Generator" (sqlgen for short).**
 
-✔️ Generates and runs Snowflake-compatible queries based on user specs, then provides a detailed analysis of the query's output to the user.
+✔️ **Generates and executes** SQL queries based on user specs.
+
+✔️ **Supports Snowflake** and will expand to **Postgres and more databases.**
+
+✔️ **Provides deep analysis** of the generated queries' results as the LLM's response.
 
 📢 Stay tuned for the repo launch!
 
 ### 👀 Get an Early Look
 **Curious about what else is coming in the future?**
 
-Explore our *in-progress* [teasers](https://github.com/auzuma/teasers) for exclusive previews of our projects!
+Explore our *in-progress* [teasers](https://github.com/auzuma/teasers) for exclusive previews of what's comng next!
 
-# Our Core Values
+# 🌟 Our Core Values
 
 At Auzuma, our core values guide every decision we make and serve as the foundation for our innovation and impact. These values ensure that we remain steadfast in our mission to use technology to positively and effectively make our world a better place.
 
-### 1. Innovation
+### 🚀 1. Innovation
 
 We are committed to pushing the boundaries of what is possible. By fostering a culture of creativity and forward-thinking, we develop groundbreaking technologies that transform industries and enhance lives.
 
-### 2. Teamwork
+### 🤝 2. Collaboration
 
-Collaboration is at the heart of everything we do. We believe in empowering people through technology, creating tools that work alongside humans as teammates rather than replacements. Together, we achieve more.
+Teamwork is at the heart of everything we do. We believe in empowering people through technology, **creating tools that work alongside humans as teammates rather than replacements**. Together, we achieve more.
 
-### 3. Trust and Transparency
+### 🔍 3. Trust and Transparency
 
-We prioritize building trust with our users and partners by being open, honest, and accountable. Our technologies are designed to be transparent, ensuring users can understand and control the systems they interact with. This sets the stage for our open-source community, here on the very platform you're on right now - GitHub.
+We prioritize building trust with our users and partners with **openness, honesty, and accountability**. Our technologies are designed to be transparent, ensuring users can understand and control the systems they interact with. This sets the stage for our open-source community, here on the very platform you're on right now - GitHub.
 
-### 4. Sustainability
+### 🌍 4. Sustainability
 
 We are dedicated to creating a greener future. From designing energy-efficient devices to integrating sustainable practices across our operations, Auzuma is committed to minimizing our environmental footprint.
 
-### 5. Integrity
+### 🔒 5. Integrity
 
-Ethical decision-making drives every aspect of our work. We uphold the highest standards of safety, privacy, and security in all our technologies, ensuring that they respect and protect the rights of individuals.
+Ethical decision-making drives every aspect of our work. We uphold the **highest standards of safety, privacy, and security at their cores** in all our technologies, ensuring that they respect and protect the rights of individuals.
 
-### 6. Inclusivity
+### 🌎 6. Inclusivity
 
-We design technology with universal accessibility in mind, ensuring that people of all abilities and backgrounds can benefit from our innovations. This includes building tools that support multilingual interfaces, adaptive designs, assistive technologies, and open-source creations (here on GitHub), creating a global impact through inclusion.
+We design technology with universal accessibility in mind, ensuring that people of all abilities and backgrounds can benefit from our innovations — **everyone**. This includes building tools that support multilingual interfaces, adaptive designs, assistive technologies, and open-source creations (here on GitHub), creating a global impact through inclusion.
 
-### 7. Continuous Learning
+### 📚 7. Relentless Learning
 
-We strive for excellence by constantly evolving. Through research, experimentation, and collaboration, we remain at the forefront of technological advancements, delivering value to our users and partners.
+We **never stop evolving**. Through constant research, experimentation, and collaboration, we remain at the forefront of technological advancements, delivering value to our users and partners.
 
-# Organizational Structure
+# 🏗️ Auzuma's Organizational Structure
 
 We've planned a structure that enables efficient innovation in the tech industry:
-- **Parent Company (Auzuma Technologies)**: Oversees the overall vision, funding, partnerships, and more.
+- **🌍 Parent Company (Auzuma Technologies)**: Oversees the overall vision, funding, partnerships, and more.
 - **Divisions and Subsidiaries**:
-	- **Auzuma A0:** Focused on AI solutions and tools.
-	- **Auzuma Devices:** Hardware innovations.
-   	- **Auzuma Superware:** *Next-gen* software innovations.
-   		- We are also working on futuristic operating systems—**stay tuned for Zionix**, our next-gen intelligent OS!
-	- **Auzuma Cloud (aka Cloudcore):** Cloud services.
-	- **Auzuma Motors:** Transportation tech.
-	- **Auzuma Media:** Social platforms, AR/VR, and communication tech.
+	- **🤖 Auzuma A0:** Focused on AI solutions and tools.
+	- **🛠️ Auzuma Devices:** Hardware innovations.
+   	- **🖥️ Auzuma Superware:** *Next-gen* software innovations.
+   		- **🤫 Teaser:** We are also working on futuristic operating systems—**stay tuned for Zionix**, our next-gen intelligent OS!
+	- **☁️ Auzuma Cloud (aka Cloudcore):** Cloud services.
+	- **🚗 Auzuma Motors:** Transportation technology and smart mobility.
+	- **📡 Auzuma Media:** Social platforms, AR/VR, and communication tech.
+
+**💡 Exciting things are in the works—stay tuned!**
 
 # Want to Contribute? 💡
 
-**We welcome contributions!** If you're excited about AI or any other innovative tech, we'd love your help.  
+**Passionate about AI, software, or tech innovation?** We welcome contributions from developers, researchers, and visionaries - **we'd love your help**.
 
-📢 Stay tuned for upcoming contribution guides!
+📢 *Contribution guides coming soon — be ready to make an impact!**
 
 # Want to Join the Team? 🤝
 
-**We’re not hiring yet, but that does not stop us from welcoming passionate contributors who align with our mission!** Please don't hesistate to join our GitHub community, contribute, and grow with us as we expand!
+We’re not officially hiring ***yet***, but that does not stop us from welcoming **talented and passionate contributors** to grow with us! Please don't hesitate to join our GitHub community, contribute, and grow with us as we expand.
 
 📢 Stay tuned for upcoming team positions!
 
-# Stay Tuned
+# 📢 Stay Connected!
 
-Be part of our journey—please [follow us](https://github.com/auzuma) here on GitHub to stay updated on our latest innovations! We're working on a website, so once it's launched, you can also subscribe to our blog.
+Be part of our journey—please [follow us here on GitHub](https://github.com/auzuma) for updates on our latest breakthroughs and announcements!  
 
-Thank you for being a supporter! ✨⭐🌟
+📢 **By the Way**: Our official website is in the works — once launched, you’ll be able to subscribe to our blog for insights and updates.  
 
+✨ **Thank you for supporting Auzuma!** **The future starts here.** 🚀🔥  
