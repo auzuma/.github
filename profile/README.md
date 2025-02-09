@@ -96,7 +96,7 @@ We've planned a structure that enables efficient innovation in the tech industry
 
 **Passionate about AI, software, or tech innovation?** We welcome contributions from developers, researchers, and visionaries - **we'd love your help**.
 
-📢 *Contribution guides coming soon — be ready to make an impact!**
+📢 *Contribution guides coming soon — please be ready to make an impact!*
 
 # Want to Join the Team? 🤝
 
@@ -110,4 +110,6 @@ Be part of our journey—please [follow us here on GitHub](https://github.com/au
 
 📢 **By the Way**: Our official website is in the works — once launched, you’ll be able to subscribe to our blog for insights and updates.  
 
-✨ **Thank you for supporting Auzuma!** **The future starts here.** 🚀🔥  
+✨ **Thank you for supporting Auzuma!** **The future starts here.**
+
+**IT'S TIME TO INNOVATE** 🚀🔥  
