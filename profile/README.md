@@ -1,5 +1,9 @@
 # Hello, tech world! 👋🏿
 
+<div align="center" width="100%">
+<img src="https://github.com/user-attachments/assets/fd50cabe-fdeb-478f-9d24-eb9a8d6a290a" />
+</div>
+
 We are **Auzuma Technologies**, a new ambitious tech startup pioneering the future of **transformative tech**. Our mission is to **use technology to positively and effectively make our world a better place**. AI is our initial focus right now, so most of our early innovations will come from our **AI division, A0**. We're already developing an AI safety, ethics, trust, and accuracy checker called **SafetyLens**. We're gearing up to launch our first version, *SafetyLens 1.0*, as an open-source project around mid-April — please [get ready to explore and contribute by following us on GitHub](https://github.com/auzuma)!
 
 # Featured Projects 🚀
