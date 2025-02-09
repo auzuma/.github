@@ -104,7 +104,7 @@ We’re not officially hiring ***yet***, but that does not stop us from welcomin
 
 📢 Stay tuned for upcoming team positions!
 
-# 📢 Stay Connected!
+# Stay Connected!
 
 Be part of our journey—please [follow us here on GitHub](https://github.com/auzuma) for updates on our latest breakthroughs and announcements!  
 
