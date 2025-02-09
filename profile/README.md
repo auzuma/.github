@@ -88,7 +88,7 @@ We've planned a structure that enables efficient innovation in the tech industry
 
 # Stay Tuned
 
-Be part of our journey—please [follow us](https://github.com/auzuma) here on GitHub to stay updated on our latest innovations! We're working on a website, so once it's launched, you can also subscribe to the newsletter.
+Be part of our journey—please [follow us](https://github.com/auzuma) here on GitHub to stay updated on our latest innovations! We're working on a website, so once it's launched, you can also subscribe to our blog.
 
 Thank you for being a supporter! ✨⭐🌟
 
