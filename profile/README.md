@@ -16,7 +16,7 @@ But Auzuma is **more than just AI**—we’re also exploring **software, hardwar
 
 # Featured Projects 🚀
 
-### 🔍 SafetyLens (Coming Around Mid-April!)
+### 🔍 SafetyLens (75% Ready!) (Coming Around Mid-April!)
 **An AI-powered safety, trust, and ethics checker for LLMs' responses.**
 
 ✔️ **Detects and flags potential issues** in trust, ethics, and accuracy.
@@ -29,7 +29,7 @@ But Auzuma is **more than just AI**—we’re also exploring **software, hardwar
 
 📢 Stay tuned for the repo launch!
 
-### ℹ️ SQL Generator (Coming Soon—Release Date TBD!)
+### ℹ️ SQL Generator (50% Ready!) (Coming Soon—Release Date TBD!)
 **An LLM-powered AI agent for generating and running SQL queries, known as "SQL Generator" (sqlgen for short).**
 
 ✔️ **Generates and executes** SQL queries based on user specs.
