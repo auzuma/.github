@@ -90,7 +90,9 @@ We've planned a structure that enables efficient innovation in the tech industry
 	- **🚗 Auzuma Motors:** Transportation technology and smart mobility.
 	- **📡 Auzuma Media:** Social platforms, AR/VR, and communication tech.
 
-**💡 Exciting things are in the works—stay tuned!**
+🔮 **We’re just getting started.**
+
+**💡 But, exciting things are in the works—stay tuned!**
 
 # Want to Contribute? 💡
 
@@ -100,7 +102,7 @@ We've planned a structure that enables efficient innovation in the tech industry
 
 # Want to Join the Team? 🤝
 
-We’re not officially hiring ***yet***, but that does not stop us from welcoming **talented and passionate contributors** to grow with us! Please don't hesitate to join our GitHub community, contribute, and grow with us as we expand.
+💼 We’re not officially hiring ***yet***, but that does not stop us from welcoming **talented and passionate contributors** to grow with us! Please don't hesitate to join our GitHub community, contribute, and grow with us as we expand.
 
 📢 Stay tuned for upcoming team positions!
 
