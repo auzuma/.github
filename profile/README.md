@@ -16,7 +16,7 @@ But Auzuma is **more than just AI**—we’re also exploring **software, hardwar
 
 # Featured Projects 🚀
 
-### 🔍 SafetyLens (75% Ready!) (Coming Around Mid-April!)
+### 🔍 SafetyLens (`████████████░░░ 75% Ready!`) (Coming Around Mid-April!)
 **An AI-powered safety, trust, and ethics checker for LLMs' responses.**
 
 ✔️ **Detects and flags potential issues** in trust, ethics, and accuracy.
@@ -29,7 +29,7 @@ But Auzuma is **more than just AI**—we’re also exploring **software, hardwar
 
 📢 Stay tuned for the repo launch!
 
-### ℹ️ SQL Generator (50% Ready!) (Coming Soon—Release Date TBD!)
+### ℹ️ SQL Generator (`████████░░░░░░ 50% Ready!`) (Coming Soon—Release Date TBD!)
 **An LLM-powered AI agent for generating and running SQL queries, known as "SQL Generator" (sqlgen for short).**
 
 ✔️ **Generates and executes** SQL queries based on user specs.
@@ -44,6 +44,11 @@ But Auzuma is **more than just AI**—we’re also exploring **software, hardwar
 **Curious about what else is coming in the future?**
 
 Explore our *in-progress* [teasers](https://github.com/auzuma/teasers) for exclusive previews of what's comng next!
+
+# 🆕 What's New?
+Nothing to see here, ***yet***. Stay tuned!
+
+---
 
 # 🌟 Our Core Values
 
@@ -77,6 +82,8 @@ We design technology with universal accessibility in mind, ensuring that people 
 
 We **never stop evolving**. Through constant research, experimentation, and collaboration, we remain at the forefront of technological advancements, delivering value to our users and partners.
 
+---
+
 # 🏗️ Auzuma's Organizational Structure
 
 We've planned a structure that enables efficient innovation in the tech industry:
@@ -98,7 +105,11 @@ We've planned a structure that enables efficient innovation in the tech industry
 
 **Passionate about AI, software, or tech innovation?** We welcome contributions from developers, researchers, and visionaries - **we'd love your help**.
 
-📢 *Contribution guides coming soon — please be ready to make an impact!*
+✅ **[💡 Get Started → Contribution Guides (Coming Soon - Please Be Ready to Make an Impact!)](#)**
+
+✅ **[🔥 Star Our Projects & Join the Movement! → Auzuma Repos (None ***Yet***!)](https://github.com/auzuma?tab=repositories)**  
+
+✅ **[🔗 Join the Discussions → GitHub Discussions](https://github.com/orgs/auzuma/discussions)**
 
 # Want to Join the Team? 🤝
 
