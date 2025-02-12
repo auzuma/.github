@@ -107,7 +107,7 @@ We've planned a structure that enables efficient innovation in the tech industry
 
 ✅ **[💡 Get Started → Contribution Guides (Coming Soon - Please Be Ready to Make an Impact!)](#)**
 
-✅ **[🔥 Star Our Projects & Join the Movement! → Auzuma Repos (None ***Yet***!)](https://github.com/auzuma?tab=repositories)**  
+✅ **[🔥 Star Our Projects & Join the Movement! → Auzuma Repos (No Public Projects ***Yet***!)](https://github.com/orgs/auzuma/repositories)**  
 
 ✅ **[🔗 Join the Discussions → GitHub Discussions](https://github.com/orgs/auzuma/discussions)**
 
