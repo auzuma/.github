@@ -46,7 +46,8 @@ But Auzuma is **more than just AI**—we’re also exploring **software, hardwar
 Explore our *in-progress* [teasers](https://github.com/auzuma/teasers) for exclusive previews of what's comng next!
 
 # 🆕 What's New?
-Nothing to see here, ***yet***. Stay tuned!
+
+- **🚀 Coming Soon: SafetyLens Open Beta, GitHub Discussions, and More!**
 
 ---
 
@@ -94,6 +95,7 @@ We've planned a structure that enables efficient innovation in the tech industry
    	- **🖥️ Auzuma Superware:** *Next-gen* software innovations.
    		- **🤫 Teaser:** We are also working on futuristic operating systems—**stay tuned for Zionix**, our next-gen intelligent OS!
 	- **☁️ Auzuma Cloud (aka Cloudcore):** Cloud services.
+		- **🤫 Teaser:** We are rethinking the future of cloud storage. **Stay tuned for Memaro**, a cutting-edge decentralized cloud technology that ensures data is stored forever, securely across multiple cloud platforms. 
 	- **🚗 Auzuma Motors:** Transportation technology and smart mobility.
 	- **📡 Auzuma Media:** Social platforms, AR/VR, and communication tech.
 
