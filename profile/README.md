@@ -48,7 +48,7 @@ An adaptive intelligent OS that **learns from you, works with you, and evolves w
 ### ☁️ **Memaro – The Cloud Reinvented**
 A decentralized, **indestructible** data storage system that lasts **forever** (until you make a **full-scale delete** to your data, of course).
 
-🔗 More details coming soon—Memaro is set to **change the game in cloud storage!**!
+🔗 More details coming soon—Memaro is set to **change the game in cloud storage!**
 
 
 ### 👀 Get an Early Look
