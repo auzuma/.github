@@ -40,10 +40,21 @@ But Auzuma is **more than just AI**—we’re also exploring **software, hardwar
 
 📢 Stay tuned for the repo launch!
 
+### 💻 **Zionix OS – The Future of Intelligent Computing**
+An adaptive intelligent OS that **learns from you, works with you, and evolves with you**.  
+
+📢 Stay tuned for our first glimpse!
+
+### ☁️ **Memaro – The Cloud Reinvented**
+A decentralized, **indestructible** data storage system that lasts **forever** (until you make a **full-scale delete** to your data, of course).
+
+🔗 More details coming soon!
+
+
 ### 👀 Get an Early Look
 **Curious about what else is coming in the future?**
 
-Explore our *in-progress* [teasers](https://github.com/auzuma/teasers) for exclusive previews of what's comng next!
+Explore our *in-progress* [teasers](https://github.com/auzuma/teasers) for exclusive previews of what's coming next!
 
 # 🆕 What's New?
 
