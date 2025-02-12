@@ -126,7 +126,7 @@ We've planned a structure that enables efficient innovation in the tech industry
 
 # Want to Join the Team? 🤝
 
-💼 We’re not officially hiring ***yet***, but that does not stop us from welcoming **talented and passionate contributors** to grow with us! Please don't hesitate to join our GitHub community, contribute, and grow with us as we expand.
+💼 Auzuma is **growing fast**. We’re not officially hiring ***yet***, but that does not stop us from welcoming **talented and passionate contributors** to grow with us! Please don't hesitate to join our GitHub community, contribute, and grow with us as we expand.
 
 📢 Stay tuned for upcoming team positions!
 
