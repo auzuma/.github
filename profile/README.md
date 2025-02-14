@@ -59,6 +59,8 @@ Explore our *in-progress* [teasers](https://github.com/auzuma/teasers) for exclu
 # 🆕 What's New?
 
 - **🚀 Coming Soon: SafetyLens Open Beta, GitHub Discussions, and More!**
+- (2/14/2025) **🛠️ lambda-automationWithConfig (LAWC) - Automate Lambda function setup by transforming templates with JSON configuration files! (Currently in BETA).**
+	- Please [checkout the repo](https://github.com/auzuma/lawc-automation-tool) and star it if you like it and/or it is useful for your development purposes!
 
 ---
 
@@ -120,7 +122,7 @@ We've planned a structure that enables efficient innovation in the tech industry
 
 ✅ **[💡 Get Started → Contribution Guides (Coming Soon - Please Be Ready to Make an Impact!)](#)**
 
-✅ **[🔥 Star Our Projects & Join the Movement! → Auzuma Repos (No Public Projects ***Yet***!)](https://github.com/orgs/auzuma/repositories)**  
+✅ **[🔥 Star Our Projects & Join the Movement! → Auzuma Repos](https://github.com/orgs/auzuma/repositories)**  
 
 ✅ **[🔗 Join the Discussions → GitHub Discussions](https://github.com/orgs/auzuma/discussions)**
 
