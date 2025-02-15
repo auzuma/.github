@@ -27,7 +27,7 @@ But Auzuma is **more than just AI**—we’re also exploring **software, hardwar
 
 🚀 *SafetyLens 1.0*, our first version, will be open-source and ready for external testing soon! We invite you to join us by testing and contributing once it's live!
 
-📢 Stay tuned for the repo launch! (If it shows as pubic but doesn't have a guide, this means it is not ready for external use yet.)
+📢 Stay tuned for the repo launch! (If it shows as public but doesn't have a guide, this means it is not ready for external use yet.)
 
 ### ℹ️ SQL Generator (`████████░░░░░░ 50% Ready!`) (Coming Soon—Release Date TBD!)
 **An LLM-powered AI agent for generating and running SQL queries, known as "SQL Generator" (sqlgen for short).**
