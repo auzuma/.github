@@ -29,7 +29,7 @@ But Auzuma is **more than just AI**—we’re also exploring **software, hardwar
 
 📢 Stay tuned for the repo launch! (If it shows as public but doesn't have a guide, this means it is not ready for external use yet.)
 
-### ℹ️ SQL Generator (`████████░░░░░░ 50% Ready!`) (Coming Soon—Release Date TBD!)
+### ℹ️ SQL Generator (Open-Source Right Now!)
 **An LLM-powered AI agent for generating and running SQL queries, known as "SQL Generator" (sqlgen for short).**
 
 ✔️ **Generates and executes** SQL queries based on user specs.
@@ -38,7 +38,7 @@ But Auzuma is **more than just AI**—we’re also exploring **software, hardwar
 
 ✔️ **Provides deep analysis** of the generated queries' results as the LLM's response.
 
-📢 Stay tuned for the repo launch!
+📢 Please consider [checking out the repo](https://github.com/auzuma/sqlgen)!
 
 ### 💻 **Zionix OS – The Future of Intelligent Computing**
 An adaptive intelligent OS that **learns from you, works with you, and evolves with you**.  
@@ -59,9 +59,10 @@ Explore our *in-progress* [teasers](https://github.com/auzuma/teasers) for exclu
 # 🆕 What's New?
 
 - **🚀 Coming Soon: SafetyLens Open Beta, GitHub Discussions, and More!**
-- (2/14/2025) **🛠️ lambda-automationWithConfig (LAWC) - Automate Lambda function setup by transforming templates with JSON configuration files! (Currently in BETA).**
+- (2/14/2025) **🛠️ lambda-automationWithConfig (LAWC) - Automate Lambda function setup by transforming templates with JSON configuration files! (Currently in BETA)**
 	- Please [checkout the repo](https://github.com/auzuma/lawc-automation-tool) and star it if you like it and/or it is useful for your development purposes!
-
+- (2/17/2025) **SQL Generator (sqlgen) 🤖⚡ -  An AI agent that converts user specs into SQL queries whose outputs' analyses are given to the user. (Currently under development)**
+  	- Please [checkout the repo](https://github.com/auzuma/sqlgen) and star it if you're interested!
 ---
 
 # 🌟 Our Core Values
