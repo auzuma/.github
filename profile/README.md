@@ -8,7 +8,7 @@
 
 </div>
 
-We are **Auzuma Technologies**, a new ambitious tech startup pioneering the future of **transformative tech**. Our mission is simple yet bold: to **use technology to positively and effectively make our world a better place**. AI is our initial focus right now, meaning most of our early innovations will come from our **AI research lab, A0**. We're already developing an AI safety, ethics, trust, and accuracy checker called **SafetyLens**. We're gearing up to launch our first version, *SafetyLens 1.0*, as an open-source project around mid-April — please [get ready to explore and contribute by following us on GitHub](https://github.com/auzuma)!
+We are **Auzuma Technologies**, a new ambitious tech startup pioneering the future of **transformative tech**. Our mission is simple yet bold: to **use technology to positively and effectively make our world a better place**. AI is our initial focus right now, meaning most of our early innovations will come from our **AI research lab, A0**. We're already developing an AI safety, ethics, trust, and accuracy checker called **SafetyLens**. We're gearing up to launch our first version, *SafetyLens 1.0*, as part of an upcoming open-source AI model as soon as possible — please [get ready to explore and contribute by following us on GitHub](https://github.com/auzuma)!
 
 But Auzuma is **more than just AI**—we’re also exploring **software, hardware, and beyond.**  
 
@@ -16,7 +16,7 @@ But Auzuma is **more than just AI**—we’re also exploring **software, hardwar
 
 # Featured Projects 🚀
 
-### 🔍 SafetyLens (`████████████░░░ 75% Ready!`) (Coming Around Mid-April!)
+### 🔍 SafetyLens (`████████████░░░ 75% Ready!`) (Release Date TBD)
 **An AI-powered safety, trust, and ethics checker for LLMs' responses.**
 
 ✔️ **Detects and flags potential issues** in trust, ethics, and accuracy.
@@ -25,9 +25,9 @@ But Auzuma is **more than just AI**—we’re also exploring **software, hardwar
 
 ✔️ **The first version is fully open-source**—join us in testing and contributing!
 
-🚀 *SafetyLens 1.0*, our first version, will be open-source and ready for external testing soon! We invite you to join us by testing and contributing once it's live!
+🚀 *SafetyLens 1.0*, our first version, will be open-source (as part of an upcoming AI model we're developing) and ready for external testing soon! We invite you to join us by testing and contributing once it's live!
 
-📢 Stay tuned for the repo launch! (If it shows as public but doesn't have a guide, this means it is not ready for external use yet.)
+📢 Stay tuned for the model repo launch! (If you notice a standalone SafetyLens repo shows as public, this repo's source code is meant to give you a sneak peek of how it works.)
 
 ### ℹ️ SQL Generator (Alpha Open-Source Right Now!)
 **An LLM-powered AI agent for generating and running SQL queries, known as "SQL Generator" (sqlgen for short).**
@@ -39,16 +39,6 @@ But Auzuma is **more than just AI**—we’re also exploring **software, hardwar
 ✔️ **Provides deep analysis** of the generated queries' results as the LLM's response.
 
 📢 Please consider [checking out the repo](https://github.com/auzuma/sqlgen)!
-
-### 💻 **Zionix OS – The Future of Intelligent Computing**
-An adaptive intelligent OS that **learns from you, works with you, and evolves with you**.  
-
-📢 Stay tuned for our first glimpse!
-
-### ☁️ **Memaro – The Cloud Reinvented**
-A decentralized, **indestructible** data storage system that lasts **forever** (until you make a **full-scale delete** to your data, of course).
-
-🔗 More details coming soon—Memaro is set to **change the game in cloud storage!**
 
 
 ### 👀 Get an Early Look
